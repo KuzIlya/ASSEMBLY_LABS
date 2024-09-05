@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\C++\Assembly Project1\x64\Debug\Assembly Project1.exe
+C:\Users\user\Desktop\C++\Assembly lab 2\x64\Debug\Assembly lab 2.exe
